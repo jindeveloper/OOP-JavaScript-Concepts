@@ -1,5 +1,5 @@
 
-import { Customer } from '../class-with-methods/class-with-methods';
+import { Customer } from '../class-with-properties/class-with-properties';
 import { expect } from 'chai';
 
 describe("Test if class have the following properties firstName,lastName,birthDate and country",
